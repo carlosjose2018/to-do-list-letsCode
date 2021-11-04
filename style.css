@@ -93,6 +93,11 @@ body {
   border-radius: 5px;
   z-index: 10;
 }
+@media only screen and (max-width: 600px) {
+  .modal-list {
+    width: 300px;
+  }
+}
 .modal-overlay {
   position: fixed;
   top: 0;
