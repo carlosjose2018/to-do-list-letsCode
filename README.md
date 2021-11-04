@@ -2,7 +2,7 @@
 
 ## \_Me Chamo José Carlos ,sou aluno da Lets'Code logo em baixo segue meu projeto sinta a vontade para usar e principalmente dá feedback!
 
-[![N|Solid](https://lc-public-assets.s3.sa-east-1.amazonaws.com/images/Logos/logoLcPng.webp)]()
+[![N|Solid](https://lh3.googleusercontent.com/q4MvYYFk6NuIW0XBEMTYPES2B1ZubmRxGGt0rUH5BUEVDh6nNqWp16NVYrrdvq13YtNK=s170]()
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
