@@ -1,6 +1,6 @@
 # Olá !
 
-## \_Me Chamo José Carlos ,sou aluno da Lets'Code logo em baixo segue meu projeto sinta a vontade para usar e principalmente dá feedback!
+## \_Me Chamo José Carlos ,sou aluno da Lets'Code logo embaixo segue meu projeto sinta a vontade para usar e principalmente dá feedback!
 
 [![N|Solid](https://lh3.googleusercontent.com/q4MvYYFk6NuIW0XBEMTYPES2B1ZubmRxGGt0rUH5BUEVDh6nNqWp16NVYrrdvq13YtNK=s170)]()
 
